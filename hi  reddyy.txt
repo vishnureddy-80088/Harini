@@ -11,7 +11,6 @@ pip install kivy
 Install Build Tools:
 
 For Android: You'll need to install Buildozer, a tool for packaging Kivy apps for Android.
-For iOS: You'll need a macOS system with Xcode and Briefcase (part of the BeeWare suite) for packaging apps.
 Create a Basic Kivy Application
 Here’s a step-by-step guide to creating a simple Kivy application:
 
