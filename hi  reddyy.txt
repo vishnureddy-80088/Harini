@@ -4,7 +4,7 @@ Prerequisites
 Install Python: Ensure you have Python installed on your machine. You can download it from the official Python website.
 
 Install Kivy: You can install Kivy using pip, Python's package installer.
-
+vishnu reddy
 bash
 Copy code
 pip install kivy
